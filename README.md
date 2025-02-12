@@ -3,7 +3,7 @@ Ralph Wilcox University of the Performing Arts & Sciences
 
 This GitHub community is composed of developers and basically the "nerds" for the Ralph Wilcox University of the Performing Arts and Sciences. I'll first share why we have RWUPAS. Many students around the world cannot afford to attend the top Universities, especially in America. We have reviewed the structures of these elite institutions and realized that offering a quality education is not that difficult. So, with AI, the latest digital tools. We can compose that online content and offer a digital platform for learners all over the world who want to focus on film and television, and generally the performing arts and sciences. This Github repo will help everyone understand the key points and objectives of the university's overall plan. 
 
-This github repo. will not just focus on the business plans for Ralph Wilcox University of the Performing Arts and Sciences (RWUPAS). It includes sections that will focus on the tech. side. Since the University is open source and uses Sakai in addition to other online platforms. We will include these subsections within various areas of the master plan, here.
+This github repo. will not just focus on the business plans for Ralph Wilcox University of the Performing Arts and Sciences (RWUPAS). It includes sections that will focus on the tech. side. Since the University is open source and uses opensource tools like Sakai in addition to other online platforms. We will include these subsections within various areas of the master plan, here. Indie Films are really cool and we want to allow students to express themselves in a way never before seen by most typical higher education institutions. RWUPAS has an aim of a school run by students for students! The days of gray haired, old, dinosaurs in the administrative department is the old way. Now in the 21st century we have the latest tools to allow Uni. to be free and open to anyone who has a notebook computer and highspeed Internet connection.
 
 This will allow everyone in the community to create various projects and work with a distributed team of community developers who will then focus on the mission, core values, and unique aspects of RWUPAS. 
 
@@ -32,10 +32,13 @@ RWUPAS stands out by integrating performing arts with cutting-edge technology. O
 
 ## Get Involved
 - Join Our Community: https://t.me/+K6uazJsUIHc5OThh
-- Contribute to Projects: Contact us at RWUPAS.Official AT outlook.com, for general info.
-- Stay Updated: X
+- Contribute to Projects: Contact us at RWUPAS.Official AT outlook.com, for general info., May be a bit of a delay though to get a response.. so try Telegram or Reddit first.
+- Stay Updated on X: @rwupas_official
+  Youtube: www.youtube.com/@RalphWilcoxRWUPAS
+  Reddit: r/RWUPAS_official/
 
 Together, let's build a future where technology and the arts converge to create extraordinary experiences!
+
 
 
 Want to know more about Ralph Wilcox:

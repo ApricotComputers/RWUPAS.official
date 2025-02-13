@@ -32,6 +32,7 @@ RWUPAS stands out by integrating performing arts with cutting-edge technology. O
 
 ## Get Involved
 - Join Our Community: https://t.me/+K6uazJsUIHc5OThh
+- Reddit community: /r/RWUPAS_official
 - Contribute to Projects: Contact us at RWUPAS.Official AT outlook.com, for general info., May be a bit of a delay though to get a response.. so try Telegram or Reddit first.
 - Stay Updated on X: @rwupas_official
   Youtube: www.youtube.com/@RalphWilcoxRWUPAS
